@@ -1,4 +1,3 @@
-```markdown
 # ParaQueue
 
 A simple, powerful async worker library for Nim. Easy mental model: push tasks to workers, they execute with controlled concurrency, pop from success or failed queues when done.
