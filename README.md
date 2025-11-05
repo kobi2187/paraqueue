@@ -1,5 +1,3 @@
-Excellent! Now let's update the README to reflect this beautiful, simple API:
-
 ```markdown
 # ParaQueue
 
